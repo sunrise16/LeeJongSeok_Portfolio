@@ -25,6 +25,10 @@ https://github.com/sunrise16/2D_Portfolio_EscapeFromTheMaze
 
 https://github.com/sunrise16/3D_Portfolio_KnightsNight
 
+2) Unity 2D 포트폴리오 - 슈팅 게임 (Bullet Hell - For Portfolio)
+
+https://github.com/sunrise16/2D_Portfolio_BulletHell
+
 
 ============================================================================
 
